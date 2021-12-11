@@ -1,4 +1,19 @@
-# AI_Medic
+# Eye Disease Recognition - AIMedic
+
+## Contributers
+
+| Name	         |
+|----------------|
+| Mahsa Amani	   |
+| Afrooz Shekholeslami |
+| Ali Ghadiri	   |
+| Amin Jamshidi	   |
+| Mojtaba Khanloo	|
+| Asiyeh Bahaloo	   |
+
+
+
+
 
 ## Abstraction
 <p align="justify"> As retinal pathologies are becoming more and more common globally, rapid and accuract detecting of eye diseases plays a crucial role in preventing from blindness. Therefore deep learning approaches will sharply increase probability of curing such diseases.
